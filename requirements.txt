@@ -1,0 +1,8 @@
+sudo pacman -S sox
+ touch $HOME/.dbus/Xdbus
+ 3544  mkdir $HOME/.dbus
+ 3545  touch $HOME/.dbus/Xdbus
+ 3546  chmod 600 $HOME/.dbus/Xdbus
+ 3547  env | grep DBUS_SESSION_BUS_ADDRESS > $HOME/.dbus/Xdbus\n
+ 3548  echo 'export DBUS_SESSION_BUS_ADDRESS' >> $HOME/.dbus/Xdbus\n
+
