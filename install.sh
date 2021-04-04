@@ -7,6 +7,7 @@ crontab .cron
 rm .cron
 
 # set the DBUS_SESSION_BUS_ADDRESS variable. By default cron does not have access to the variable.
+mkdir $HOME/.dbus
 touch $HOME/.dbus/Xdbus
 chmod 600 $HOME/.dbus/Xdbus
 env | grep DBUS_SESSION_BUS_ADDRESS > $HOME/.dbus/Xdbus
