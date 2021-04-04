@@ -13,4 +13,5 @@ with installing this script You will get a message and notification sound to rem
 3. Go to the project directory  : `cd eye_care_20_20_20`,
 4. give permission to run       : `chmod +x install.sh eye_care.sh`,
 5. install                      : `bash install.sh` 
+6. reset your system            : `reboot`
 
