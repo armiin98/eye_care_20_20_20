@@ -9,13 +9,16 @@ fi
 export DISPLAY=127.0.0.1:0.0
 export XAUTHORITY=/home/$USER/.Xauthority
 
+# location of notification sound
+address=$(readlink -f eye_care_song.mp3)
+
 while true
   do
     # run programme every 20 minutes
-    sleep 20m
+    sleep 1m
     #  play notification sound
-    /bin/play "$HOME/Downloads/eye_care_20_20_20/eye_care_song.mp3" 
+    play "$address" 
     # show message
-    env DISPLAY=:0.0 /bin/notify-send -t 5000 "Look Atleast 20 Feet Away for 20 Seconds!"
+    env DISPLAY=:0.0 notify-send -t 5000 "Look Atleast 20 Feet Away for 20 Seconds!"
   done
 
