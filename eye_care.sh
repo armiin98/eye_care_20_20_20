@@ -17,7 +17,7 @@ while true
     # run programme every 20 minutes
     sleep 1m
     #  play notification sound
-    play "$address" 
+    play /home/armin/w/bash/eye_care_20_20_20/eye_care_song.mp3
     # show message
     env DISPLAY=:0.0 notify-send -t 5000 "Look Atleast 20 Feet Away for 20 Seconds!"
   done
