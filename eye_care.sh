@@ -15,7 +15,7 @@ address=$(readlink -f eye_care_song.mp3)
 while true
   do
     # run programme every 20 minutes
-    sleep 1m
+    sleep 20m
     #  play notification sound
     # show message
     env DISPLAY=:0.0 notify-send -t 5000 "Look Atleast 20 Feet Away for 20 Seconds!"
