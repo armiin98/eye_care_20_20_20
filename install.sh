@@ -13,7 +13,7 @@ sudo pacman -S sox
 
 # set cron to run app at startup
 # location of script
-address=$(readlink -f eye_care_.sh)
+address=$(readlink -f eye_care.sh)
 crontab -l > .cron
 echo "@reboot $address" >> .cron
 crontab .cron
