@@ -1,4 +1,10 @@
-## Save Your Eyes From Eye strain when you Look At A Bright Screen
+## Prevent eye strain with the 20-20-20 rule
+After or during a long day of working at a computer, have you experienced any of the following problems? </br>
+.   sore, tired or burning eyes </br>
+.   blurred or double vision </br>
+.   watery, itchy or dry eyes </br>
+.   headaches </br>
+If you have, it’s likely the result of eye strain, which happens when your eyes get tired from intense use. Fortunately, it can be remedied with a helpful trick called the 20-20-20 rule
 
 ## What’s the 20-20-20 rule?
 If you find yourself gazing at screens all day, your eye doctor may have mentioned this rule to you. Basically, every 20 minutes spent using a screen, you should try to look away at something that is 20 feet away from you for a total of 20 seconds.
