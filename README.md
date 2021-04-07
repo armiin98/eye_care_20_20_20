@@ -1,6 +1,6 @@
 ## Prevent eye strain with the 20-20-20 rule
 After or during a long day of working at a computer, have you experienced any of the following problems? </br>
-.   sore, tired or burning eyes </br>
+- sore, tired or burning eyes </br>
 .   blurred or double vision </br>
 .   watery, itchy or dry eyes </br>
 .   headaches </br>
