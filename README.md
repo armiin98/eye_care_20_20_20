@@ -18,5 +18,5 @@ This script helps you to do 20-20-20 rule regularly,With installing this script 
 2. Go to the project directory  : `cd eye_care_20_20_20`,
 3. give permission to run       : `chmod +x install.sh eye_care.sh`,
 4. install                      : `bash install.sh` 
-5. reset your system            : `reboot`
+5. reboot your system            : `reboot`
 
