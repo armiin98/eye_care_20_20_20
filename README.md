@@ -1,9 +1,9 @@
 ## Prevent eye strain with the 20-20-20 rule
 After or during a long day of working at a computer, have you experienced any of the following problems? </br>
 - sore, tired or burning eyes </br>
-.   blurred or double vision </br>
-.   watery, itchy or dry eyes </br>
-.   headaches </br>
+- blurred or double vision </br>
+- watery, itchy or dry eyes </br>
+- headaches </br>
 If you have, it’s likely the result of eye strain, which happens when your eyes get tired from intense use. Fortunately, it can be remedied with a helpful trick called the 20-20-20 rule
 
 ## What’s the 20-20-20 rule?
