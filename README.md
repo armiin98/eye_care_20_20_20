@@ -18,15 +18,15 @@ This script helps you to do 20-20-20 rule regularly,With installing this script 
 ```sh
 $ git clone https://github.com/armiin98/eye_care_20_20_20.git
 ```       
-2. Go to the project directory  
+2. Go to the eye care 20 20 20 directory  
 ```sh
 $ cd eye_care_20_20_20
 ```
-3. give permission to run
+3. Give permission to run
 ```sh
 $ chmod +x install.sh eye_care.sh
 ```
-4. install
+4. Install
 ```sh
 $ bash install.sh 
 ```
