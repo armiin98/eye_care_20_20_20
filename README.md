@@ -24,9 +24,9 @@ $ cd eye_care_20_20_20
 ```
 3. give permission to run
 ```sh
-chmod +x install.sh eye_care.sh
+$ chmod +x install.sh eye_care.sh
 ```
 4. install
 ```sh
-bash install.sh 
+$ bash install.sh 
 ```
