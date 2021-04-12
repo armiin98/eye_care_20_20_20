@@ -13,7 +13,7 @@ If you find yourself gazing at screens all day, your eye doctor may have mention
 ### Eye Care 20 20 20
 This script helps you to do 20-20-20 rule regularly,With installing this script You will get a message and notification sound to remind you every 20 minute to look 20 feet away for 20 seconds!  
 
-#### How to Install (for `Arch-based` distros only)
+#### How to Install in Linux (for `Arch-based` distros only)
 1. Clone the project     
 ```sh
 $ git clone https://github.com/armiin98/eye_care_20_20_20.git
