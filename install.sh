@@ -14,6 +14,10 @@ sudo pacman -S sox
 # location of script
 address=$(readlink -f eye_care.sh)
 
+# enable cron service
+echo "enabling cron.service ..."
+sudo systemctl enable --now cronie.service
+
 # set cron to run app at startup
 crontab -l > .cron
 echo "*/20 * * * * $address" >> .cron
